@@ -13,23 +13,23 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>307F261A10EFB375780A3EC507E0D9264B26257B</string>
+				<string>A2502D6B886E63CECEA6DC3939DF20FE03B1E315</string>
 				<key>dateExpires</key>
-				<string>2021/10/30</string>
+				<string>2021/9/8</string>
 				<key>type</key>
 				<string>iOS Distribution</string>
 			</dict>
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>T27E5Y9F7J.com.wbtest.date2</string>
+				<string>T27E5Y9F7J.com.jy.date1</string>
 				<key>com.apple.developer.team-identifier</key>
 				<string>T27E5Y9F7J</string>
 				<key>get-task-allow</key>
 				<false/>
 				<key>keychain-access-groups</key>
 				<array>
-					<string>T27E5Y9F7J.com.wbtest.date2</string>
+					<string>T27E5Y9F7J.com.jy.date1</string>
 				</array>
 			</dict>
 			<key>name</key>
@@ -37,9 +37,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>f116dedf-37c1-49ec-af71-6ae909f210b1</string>
+				<string>181aaef9-6048-4c8b-b4f7-0c3c5eb0d479</string>
 				<key>name</key>
-				<string>wb_adhoc_test</string>
+				<string>jys_ahoc_2020_10_07</string>
 			</dict>
 			<key>team</key>
 			<dict>
