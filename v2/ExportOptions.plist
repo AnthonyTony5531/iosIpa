@@ -9,7 +9,7 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://summerhotsi.github.io/iosIpa/v2/jys.ipa</string>
+		<string>https://summerhotsi.github.io/iosIpa/jys.ipa</string>
 		<key>displayImageURL</key>
 		<string>https://summerhotsi.github.io/iosIpa/57.png</string>
 		<key>fullSizeImageURL</key>
