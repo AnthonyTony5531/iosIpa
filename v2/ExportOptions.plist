@@ -23,7 +23,7 @@
 		<string>wb_adhoc_test</string>
 	</dict>
 	<key>signingCertificate</key>
-	<string>A2502D6B886E63CECEA6DC3939DF20FE03B1E315</string>
+	<string>307F261A10EFB375780A3EC507E0D9264B26257B</string>
 	<key>signingStyle</key>
 	<string>manual</string>
 	<key>stripSwiftSymbols</key>
