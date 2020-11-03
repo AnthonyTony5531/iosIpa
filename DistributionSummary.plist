@@ -13,9 +13,9 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>A2502D6B886E63CECEA6DC3939DF20FE03B1E315</string>
+				<string>8B3FAD035DE8CCB684FD08BB79533DF22E55FB4A</string>
 				<key>dateExpires</key>
-				<string>2021/9/8</string>
+				<string>2021/11/3</string>
 				<key>type</key>
 				<string>iOS Distribution</string>
 			</dict>
@@ -37,9 +37,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>181aaef9-6048-4c8b-b4f7-0c3c5eb0d479</string>
+				<string>8f2551ca-e554-41e8-8038-b85d3852ab62</string>
 				<key>name</key>
-				<string>jys_ahoc_2020_10_07</string>
+				<string>jys_2020_11_3_adhoc</string>
 			</dict>
 			<key>team</key>
 			<dict>
