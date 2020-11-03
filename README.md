@@ -1,5 +1,0 @@
-# iosIpa
-
-dw
-
-ds
